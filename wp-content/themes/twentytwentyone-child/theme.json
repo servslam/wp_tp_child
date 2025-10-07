@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        { "slug": "custom-background", "color": "#f9d5e5", "name": "Custom Background" }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#f9d5e5"
+    },
+    "elements": {
+      "h1": {
+        "color": { "text": "#0078d7" }
+      }
+    }
+  }
+}
